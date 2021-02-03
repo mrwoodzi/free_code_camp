@@ -1,5 +1,6 @@
 hrs = input("Enter Hours:")
 rph = input("Enter Rate: ")
+
 try:   
     h = float(hrs)
     r = float(rph)
